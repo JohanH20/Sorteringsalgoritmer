@@ -1,0 +1,11 @@
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\bin\Debug\netcoreapp3.0\Insertionsort.exe
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\bin\Debug\netcoreapp3.0\Insertionsort.deps.json
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\bin\Debug\netcoreapp3.0\Insertionsort.runtimeconfig.json
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\bin\Debug\netcoreapp3.0\Insertionsort.runtimeconfig.dev.json
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\bin\Debug\netcoreapp3.0\Insertionsort.dll
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\bin\Debug\netcoreapp3.0\Insertionsort.pdb
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\obj\Debug\netcoreapp3.0\Insertionsort.csprojAssemblyReference.cache
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\obj\Debug\netcoreapp3.0\Insertionsort.AssemblyInfoInputs.cache
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\obj\Debug\netcoreapp3.0\Insertionsort.AssemblyInfo.cs
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\obj\Debug\netcoreapp3.0\Insertionsort.dll
+C:\Users\Johan Hasselblad\source\repos\Insertionsort\obj\Debug\netcoreapp3.0\Insertionsort.pdb
