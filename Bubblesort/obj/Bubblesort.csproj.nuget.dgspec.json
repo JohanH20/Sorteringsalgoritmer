@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Johan Hasselblad\\source\\repos\\Bubblesort\\Bubblesort.csproj": {}
+    "C:\\Users\\Johan Hasselblad\\Desktop\\Sorteringsalgoritmer-master\\Bubblesort\\Bubblesort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Johan Hasselblad\\source\\repos\\Bubblesort\\Bubblesort.csproj": {
+    "C:\\Users\\Johan Hasselblad\\Desktop\\Sorteringsalgoritmer-master\\Bubblesort\\Bubblesort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johan Hasselblad\\source\\repos\\Bubblesort\\Bubblesort.csproj",
+        "projectUniqueName": "C:\\Users\\Johan Hasselblad\\Desktop\\Sorteringsalgoritmer-master\\Bubblesort\\Bubblesort.csproj",
         "projectName": "Bubblesort",
-        "projectPath": "C:\\Users\\Johan Hasselblad\\source\\repos\\Bubblesort\\Bubblesort.csproj",
+        "projectPath": "C:\\Users\\Johan Hasselblad\\Desktop\\Sorteringsalgoritmer-master\\Bubblesort\\Bubblesort.csproj",
         "packagesPath": "C:\\Users\\Johan Hasselblad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johan Hasselblad\\source\\repos\\Bubblesort\\obj\\",
+        "outputPath": "C:\\Users\\Johan Hasselblad\\Desktop\\Sorteringsalgoritmer-master\\Bubblesort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johan Hasselblad\\source\\repos\\Insertionsort\\Insertionsort.csproj",
+      "projectUniqueName": "C:\\Users\\Johan Hasselblad\\Desktop\\Sorteringsalgoritmer-master\\Insertionsort\\Insertionsort.csproj",
       "projectName": "Insertionsort",
-      "projectPath": "C:\\Users\\Johan Hasselblad\\source\\repos\\Insertionsort\\Insertionsort.csproj",
+      "projectPath": "C:\\Users\\Johan Hasselblad\\Desktop\\Sorteringsalgoritmer-master\\Insertionsort\\Insertionsort.csproj",
       "packagesPath": "C:\\Users\\Johan Hasselblad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johan Hasselblad\\source\\repos\\Insertionsort\\obj\\",
+      "outputPath": "C:\\Users\\Johan Hasselblad\\Desktop\\Sorteringsalgoritmer-master\\Insertionsort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
