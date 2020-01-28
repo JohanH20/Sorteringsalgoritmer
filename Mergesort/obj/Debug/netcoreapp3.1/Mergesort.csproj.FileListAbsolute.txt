@@ -1,0 +1,11 @@
+C:\Users\Johan Hasselblad\source\repos\Mergesort\bin\Debug\netcoreapp3.1\Mergesort.exe
+C:\Users\Johan Hasselblad\source\repos\Mergesort\bin\Debug\netcoreapp3.1\Mergesort.deps.json
+C:\Users\Johan Hasselblad\source\repos\Mergesort\bin\Debug\netcoreapp3.1\Mergesort.runtimeconfig.json
+C:\Users\Johan Hasselblad\source\repos\Mergesort\bin\Debug\netcoreapp3.1\Mergesort.runtimeconfig.dev.json
+C:\Users\Johan Hasselblad\source\repos\Mergesort\bin\Debug\netcoreapp3.1\Mergesort.dll
+C:\Users\Johan Hasselblad\source\repos\Mergesort\bin\Debug\netcoreapp3.1\Mergesort.pdb
+C:\Users\Johan Hasselblad\source\repos\Mergesort\obj\Debug\netcoreapp3.1\Mergesort.csprojAssemblyReference.cache
+C:\Users\Johan Hasselblad\source\repos\Mergesort\obj\Debug\netcoreapp3.1\Mergesort.AssemblyInfoInputs.cache
+C:\Users\Johan Hasselblad\source\repos\Mergesort\obj\Debug\netcoreapp3.1\Mergesort.AssemblyInfo.cs
+C:\Users\Johan Hasselblad\source\repos\Mergesort\obj\Debug\netcoreapp3.1\Mergesort.dll
+C:\Users\Johan Hasselblad\source\repos\Mergesort\obj\Debug\netcoreapp3.1\Mergesort.pdb
